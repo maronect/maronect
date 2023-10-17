@@ -1,4 +1,6 @@
-<p align="center"> <br><br> Hi! I am <strong>Marone Taques</strong>. Here you can follow my self development during<strong>Computer Science bachelor degree</strong>.</p>&nbsp;
+<head><i><h3>
+  Hello! I am <strong>Marone Taques</strong>.<br><br> Here you can follow my self development during<strong>Computer Science bachelor degree</strong>
+</h3></i></head>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=maronect&theme=radical&mode=weekly" />
