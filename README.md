@@ -1,5 +1,5 @@
 <head><i><h3>
-  Hello! I am <strong>Marone Taques</strong>.<br><br> Here you can follow my self development during<strong>Computer Science bachelor degree</strong>
+  Hello! I am <strong>Marone Carvalho Taques</strong>.<br><br> Here you can follow my self development during<strong>Computer Science bachelor degree</strong>
 </h3></i></head>
 
 <div  align="center" style="margin-bottom:100px">
@@ -46,7 +46,7 @@
 </a>
 <a href = "mailto:contato.maronect@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marone-carvalho-taques-493583234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href = "https://leetcode.com/maronect/" target="_blank"><img scr = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
+<a href = "https://leetcode.com/maronect/" target="_blank"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
