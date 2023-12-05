@@ -1,5 +1,5 @@
 <head><i><h3>
-  Hello! I am <strong>Marone Carvalho Taques</strong>.<br><br> Here you can follow my self development during<strong>Computer Science bachelor degree</strong>
+  Hello! I am <strong>Marone Carvalho Taques</strong>.<br><br> Here you can follow my self development during <strong>Computer Science bachelor degree</strong>
 </h3></i></head>
 
 <div  align="center" style="margin-bottom:100px">
