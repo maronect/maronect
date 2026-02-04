@@ -1,51 +1,66 @@
-<head><i><h3>
-  Hello! I am <strong>Marone Carvalho Taques</strong>.<br><br> Here you can follow my self development during <strong>Computer Science bachelor degree</strong>
-</h3></i></head>
+# Marone Taques
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=maronect&theme=radical&mode=weekly" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maronect&show_icons=true&theme=radical&layout=compact" />
- </div> 
- 
- &nbsp;
- &nbsp;
+**Computer Scientist | Data Science | Machine Learning | Data Engineering | Quantitative Finance**  
+Brazil 🇧🇷
 
-## My Skills
+---
 
-#### Main Stack:
+## About
 
-![Java](https://img.shields.io/badge/Java-%23E4405F?style=for-the-badge&logo=java&logoColor=red)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+Computer Science graduate focused on **data-driven systems**, **statistical modeling**, **machine learning**, and **data engineering**.  
+I build **analytical pipelines**, **predictive models**, and **decision-oriented systems**, with strong interest in **finance and economics**.
 
-#### Databases:
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Tech Stack
 
-#### OS:
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Data Science & Machine Learning
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-#### Workstation Tools:
+### Backend & Data Engineering
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
+### Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![WSL](https://img.shields.io/badge/WSL-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
 
-&nbsp;
-&nbsp;
+---
 
-## Contacts:
+## Projects
 
-<div> 
-<a href="https://www.instagram.com/https://www.instagram.com/marone_carvalho_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.maronectm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marone-carvalho-taques-493583234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href = "https://leetcode.com/maronect/" target="_blank"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
-</div>&nbsp;&nbsp;
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+**CashConcept / Deep Learning Finance**  
+Portfolio optimization and risk analysis using statistical methods and machine learning, with interactive Python dashboards.
+
+**Data Engineering Projects**  
+ETL pipelines, data modeling, layered architectures (bronze, silver, gold), and analytical datasets.
+
+**Backend & APIs**  
+RESTful APIs with FastAPI and Express, relational databases, and containerized applications.
+
+---
+
+## Education
+
+**B.Sc. in Computer Science** — UNICAP  
+Thesis: *Investment Portfolio Optimization with Machine Learning-based Asset Modeling*
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/marone-carvalho-taques-493583234/ 
+- Email: maronectm@gmail.com
