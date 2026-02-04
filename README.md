@@ -37,30 +37,3 @@ I build **analytical pipelines**, **predictive models**, and **decision-oriented
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ![WSL](https://img.shields.io/badge/WSL-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## Projects
-
-**CashConcept / Deep Learning Finance**  
-Portfolio optimization and risk analysis using statistical methods and machine learning, with interactive Python dashboards.
-
-**Data Engineering Projects**  
-ETL pipelines, data modeling, layered architectures (bronze, silver, gold), and analytical datasets.
-
-**Backend & APIs**  
-RESTful APIs with FastAPI and Express, relational databases, and containerized applications.
-
----
-
-## Education
-
-**B.Sc. in Computer Science** — UNICAP  
-Thesis: *Investment Portfolio Optimization with Machine Learning-based Asset Modeling*
-
----
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/marone-carvalho-taques-493583234/ 
-- Email: maronectm@gmail.com
