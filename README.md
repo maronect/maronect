@@ -1,3 +1,5 @@
+
+
 # Marone Taques
 
 **Computer Scientist | Data Science | Machine Learning | Data Engineering | Quantitative Finance**  
@@ -12,6 +14,17 @@ I build **analytical pipelines**, **predictive models**, and **decision-oriented
 
 ---
 
+## ⚡ What I Do
+
+- 📊 Design and implement **analytical pipelines** and data models  
+- 🤖 Develop **machine learning workflows**, from EDA to validation and evaluation  
+- 📈 Build **quantitative finance models** (returns, risk, correlation, portfolio optimization)  
+- 🧪 Perform **statistical analysis** and feature engineering on real datasets  
+- 🐳 Containerize data and ML workflows using **Docker**  
+- 🔁 Integrate data, models, and APIs to support decision-making systems  
+
+---
+
 ## Tech Stack
 
 ### Programming Languages
@@ -23,17 +36,13 @@ I build **analytical pipelines**, **predictive models**, and **decision-oriented
 
 ### Data Science & Machine Learning
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend & Data Engineering
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
-![WSL](https://img.shields.io/badge/WSL-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
